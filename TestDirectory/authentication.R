@@ -1,10 +1,10 @@
 library(ROAuth)
 library(twitteR)
 11
-consumer_key <-"U60YN2OZknX33iDBxSgRoKTY1"
-consumer_secret <- "rFfX0PnHn409gV281yl49E0PneM2Z2CPO1MdiFL3JLu4ikUYYa"
-access_token<-"224134631-766GbZ9FmTpXmlbOuUyEuIw6iv6HcBzOIAhh07Qc"
-access_secret <- "v5ZQke0ieNjpWIXPt2bUJ5pSYu3N2P972WLJNo5tOZD4X"
+consumer_key <-"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+consumer_secret <- "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+access_token<-"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+access_secret <- "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 #download.file(url="http://curl.haxx.se/ca/cacert.pem",destfile = "cacert.pem")
 #setup_twitter_oauth(consumer_key ,consumer_secret, access_token,  access_secret )
